@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "type": "occidental",
+  "nom": "Sagittaire",
+  "symbole": "♐",
+  "dates": "22 novembre – 21 décembre",
+  "element": "Feu",
+  "mode": "Mutable",
+  "polarité": "Masculin",
+  "planète_maîtresse": "Jupiter",
+  "description": "Le Sagittaire est optimiste, aventurier et en quête de sens. Il aime apprendre, voyager et élargir ses horizons, souvent animé par une quête spirituelle.",
+  "forces": "Enthousiaste, libre, honnête, philosophe, ouvert d’esprit",
+  "faiblesses": "Imprudent, dispersé, parfois dogmatique, fuit les responsabilités",
+  "compatibilités": "Bélier, Lion, Balance, Verseau",
+  "mots_clés": "expansion, liberté, voyage, enseignement, quête de sens"
+}

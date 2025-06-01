@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "type": "occidental",
+  "nom": "Bélier",
+  "symbole": "♈",
+  "dates": "21 mars – 20 avril",
+  "element": "Feu",
+  "mode": "Cardinal",
+  "polarité": "Masculin",
+  "planète_maîtresse": "Mars",
+  "description": "Premier signe du zodiaque, le Bélier symbolise l’impulsion, l’action et l’initiation. Il est énergique, courageux et aime relever des défis.",
+  "forces": "Dynamique, entreprenant, franc, motivé, courageux",
+  "faiblesses": "Impulsif, impatient, égocentrique, manque de tact",
+  "compatibilités": "Lion, Sagittaire, Gémeaux, Verseau",
+  "mots_clés": "action, énergie, compétition, audace, indépendance"
+}

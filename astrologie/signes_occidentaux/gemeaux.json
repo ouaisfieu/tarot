@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "type": "occidental",
+  "nom": "Gémeaux",
+  "symbole": "♊",
+  "dates": "21 mai – 20 juin",
+  "element": "Air",
+  "mode": "Mutable",
+  "polarité": "Masculin",
+  "planète_maîtresse": "Mercure",
+  "description": "Signe de l’échange, le Gémeaux est curieux, vif et adaptable. Il aime apprendre, communiquer et multiplier les expériences.",
+  "forces": "Curieux, sociable, intelligent, adaptable, drôle",
+  "faiblesses": "Superficiel, nerveux, instable, parfois menteur",
+  "compatibilités": "Balance, Verseau, Bélier, Lion",
+  "mots_clés": "curiosité, communication, mobilité, légèreté, dualité"
+}

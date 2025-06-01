@@ -1,0 +1,16 @@
+{
+  "id": 5,
+  "type": "occidental",
+  "nom": "Lion",
+  "symbole": "♌",
+  "dates": "23 juillet – 22 août",
+  "element": "Feu",
+  "mode": "Fixe",
+  "polarité": "Masculin",
+  "planète_maîtresse": "Soleil",
+  "description": "Le Lion est un leader né, rayonnant, fier et charismatique. Il aime être au centre de l’attention et s’exprime avec grandeur et passion.",
+  "forces": "Charismatique, généreux, créatif, confiant, loyal",
+  "faiblesses": "Orgueilleux, autoritaire, égocentrique, besoin excessif de reconnaissance",
+  "compatibilités": "Bélier, Sagittaire, Gémeaux, Balance",
+  "mots_clés": "rayonnement, fierté, autorité, créativité, leadership"
+}

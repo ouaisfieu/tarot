@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "type": "occidental",
+  "nom": "Cancer",
+  "symbole": "♋",
+  "dates": "21 juin – 22 juillet",
+  "element": "Eau",
+  "mode": "Cardinal",
+  "polarité": "Féminin",
+  "planète_maîtresse": "Lune",
+  "description": "Le Cancer est sensible, protecteur et tourné vers le foyer. Il agit selon ses émotions et cherche à créer un environnement affectif sécurisant.",
+  "forces": "Empathique, loyal, intuitif, protecteur, imaginatif",
+  "faiblesses": "Lunatique, susceptible, possessif, tendance à se refermer",
+  "compatibilités": "Scorpion, Poissons, Taureau, Vierge",
+  "mots_clés": "émotions, famille, mémoire, sécurité, sensibilité"
+}

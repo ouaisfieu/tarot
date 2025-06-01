@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "type": "occidental",
+  "nom": "Capricorne",
+  "symbole": "♑",
+  "dates": "22 décembre – 19 janvier",
+  "element": "Terre",
+  "mode": "Cardinal",
+  "polarité": "Féminin",
+  "planète_maîtresse": "Saturne",
+  "description": "Le Capricorne est ambitieux, discipliné et endurant. Il vise la réussite à long terme et cherche à construire sur des bases solides et durables.",
+  "forces": "Responsable, persévérant, patient, structuré, mature",
+  "faiblesses": "Rigide, pessimiste, distant, obsession du travail",
+  "compatibilités": "Taureau, Vierge, Scorpion, Poissons",
+  "mots_clés": "ambition, structure, responsabilité, maîtrise, détermination"
+}
