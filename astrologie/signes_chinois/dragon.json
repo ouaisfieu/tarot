@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "type": "chinois",
+  "nom": "Dragon",
+  "symbole": "龍",
+  "années_exemples": "1988, 2000, 2012, 2024",
+  "élément_fixe": "Bois",
+  "polarité": "Yang",
+  "description": "Le Dragon est un symbole de puissance, de noblesse et de chance. Charismatique et ambitieux, il inspire naturellement le respect.",
+  "forces": "Leader naturel, énergique, magnétique, créatif, enthousiaste",
+  "faiblesses": "Arrogant, têtu, parfois tyrannique",
+  "compatibilités": "Rat, Singe, Coq",
+  "mots_clés": "puissance, charisme, ambition, créativité, autorité"
+}

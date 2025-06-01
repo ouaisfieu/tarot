@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "type": "chinois",
+  "nom": "Tigre",
+  "symbole": "虎",
+  "années_exemples": "1986, 1998, 2010, 2022",
+  "élément_fixe": "Bois",
+  "polarité": "Yang",
+  "description": "Courageux, indépendant et imprévisible, le Tigre aime les défis et ne recule pas devant le danger.",
+  "forces": "Charismatique, audacieux, énergique, généreux",
+  "faiblesses": "Impulsif, rebelle, difficile à contrôler",
+  "compatibilités": "Cheval, Chien, Cochon",
+  "mots_clés": "audace, indépendance, passion, volonté"
+}

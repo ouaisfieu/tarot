@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "type": "chinois",
+  "nom": "Cheval",
+  "symbole": "馬",
+  "années_exemples": "1990, 2002, 2014",
+  "élément_fixe": "Feu",
+  "polarité": "Yang",
+  "description": "Le Cheval est indépendant, dynamique et aventurier. Il aime l’action, les déplacements et fuir la routine.",
+  "forces": "Spontané, énergique, sociable, travailleur, courageux",
+  "faiblesses": "Impulsif, impatient, égoïste",
+  "compatibilités": "Tigre, Chien, Chèvre",
+  "mots_clés": "liberté, mouvement, autonomie, vitalité, charisme"
+}

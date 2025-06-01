@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "type": "chinois",
+  "nom": "Rat",
+  "symbole": "鼠",
+  "années_exemples": "1984, 1996, 2008, 2020",
+  "élément_fixe": "Eau",
+  "polarité": "Yang",
+  "description": "Intelligent, vif et sociable, le Rat est un stratège qui aime l’organisation, les contacts et les idées nouvelles.",
+  "forces": "Rusé, adaptable, observateur, ambitieux, charmeur",
+  "faiblesses": "Opportuniste, nerveux, parfois manipulateur",
+  "compatibilités": "Dragon, Singe, Bœuf",
+  "mots_clés": "stratégie, communication, débrouillardise, intelligence"
+}

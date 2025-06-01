@@ -1,0 +1,14 @@
+{
+  "id": 4,
+  "type": "chinois",
+  "nom": "Lièvre",
+  "symbole": "兔",
+  "années_exemples": "1987, 1999, 2011, 2023",
+  "élément_fixe": "Bois",
+  "polarité": "Yin",
+  "description": "Doux, prudent et sociable, le Lièvre recherche l’harmonie et la tranquillité. Il préfère la négociation au conflit.",
+  "forces": "Diplomate, réfléchi, gracieux, intuitif",
+  "faiblesses": "Fuyant, indécis, anxieux",
+  "compatibilités": "Chèvre, Cochon, Chien",
+  "mots_clés": "harmonie, douceur, prudence, discrétion"
+}

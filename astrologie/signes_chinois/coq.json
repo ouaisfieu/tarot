@@ -1,0 +1,14 @@
+{
+  "id": 10,
+  "type": "chinois",
+  "nom": "Coq",
+  "symbole": "雞",
+  "années_exemples": "1993, 2005, 2017",
+  "élément_fixe": "Métal",
+  "polarité": "Yin",
+  "description": "Franc, précis et méthodique, le Coq a un grand sens du détail. Il aime être remarqué et se distingue par son esprit tranchant.",
+  "forces": "Organisé, courageux, loyal, observateur, minutieux",
+  "faiblesses": "Arrogant, autoritaire, critique",
+  "compatibilités": "Bœuf, Serpent, Dragon",
+  "mots_clés": "précision, clarté, rigueur, franchise, bravoure"
+}
