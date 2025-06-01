@@ -1,0 +1,470 @@
+[
+  {
+    "id": "0_le_stagiaire_motive",
+    "nom": "0 Le Stagiaire Motive",
+    "path": "tarot_boulot/boulot/majeurs/0_le_stagiaire_motive.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/0_le_stagiaire_motive.json"
+  },
+  {
+    "id": "iii_la_cheffe_de_com",
+    "nom": "Iii La Cheffe De Com",
+    "path": "tarot_boulot/boulot/majeurs/iii_la_cheffe_de_com.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/iii_la_cheffe_de_com.json"
+  },
+  {
+    "id": "ii_la_detentrice_dexperience",
+    "nom": "Ii La Detentrice Dexperience",
+    "path": "tarot_boulot/boulot/majeurs/ii_la_detentrice_dexperience.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/ii_la_detentrice_dexperience.json"
+  },
+  {
+    "id": "iv_le_comite_dorientation",
+    "nom": "Iv Le Comite Dorientation",
+    "path": "tarot_boulot/boulot/majeurs/iv_le_comite_dorientation.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/iv_le_comite_dorientation.json"
+  },
+  {
+    "id": "ix_la_consultante_independante",
+    "nom": "Ix La Consultante Independante",
+    "path": "tarot_boulot/boulot/majeurs/ix_la_consultante_independante.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/ix_la_consultante_independante.json"
+  },
+  {
+    "id": "i_lagent_de_terrain",
+    "nom": "I Lagent De Terrain",
+    "path": "tarot_boulot/boulot/majeurs/i_lagent_de_terrain.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/i_lagent_de_terrain.json"
+  },
+  {
+    "id": "viii_lauditrice_des_procedures",
+    "nom": "Viii Lauditrice Des Procedures",
+    "path": "tarot_boulot/boulot/majeurs/viii_lauditrice_des_procedures.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/viii_lauditrice_des_procedures.json"
+  },
+  {
+    "id": "vii_la_task_force",
+    "nom": "Vii La Task Force",
+    "path": "tarot_boulot/boulot/majeurs/vii_la_task_force.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/vii_la_task_force.json"
+  },
+  {
+    "id": "vi_le_porte_volontaire",
+    "nom": "Vi Le Porte Volontaire",
+    "path": "tarot_boulot/boulot/majeurs/vi_le_porte_volontaire.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/vi_le_porte_volontaire.json"
+  },
+  {
+    "id": "v_le_mentor_bienveillant",
+    "nom": "V Le Mentor Bienveillant",
+    "path": "tarot_boulot/boulot/majeurs/v_le_mentor_bienveillant.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/v_le_mentor_bienveillant.json"
+  },
+  {
+    "id": "xiii_la_refonte_inevitable",
+    "nom": "Xiii La Refonte Inevitable",
+    "path": "tarot_boulot/boulot/majeurs/xiii_la_refonte_inevitable.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xiii_la_refonte_inevitable.json"
+  },
+  {
+    "id": "xii_le_detourneur_de_projet",
+    "nom": "Xii Le Detourneur De Projet",
+    "path": "tarot_boulot/boulot/majeurs/xii_le_detourneur_de_projet.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xii_le_detourneur_de_projet.json"
+  },
+  {
+    "id": "xiv_lequilibriste_des_flux",
+    "nom": "Xiv Lequilibriste Des Flux",
+    "path": "tarot_boulot/boulot/majeurs/xiv_lequilibriste_des_flux.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xiv_lequilibriste_des_flux.json"
+  },
+  {
+    "id": "xix_le_projet_accompli",
+    "nom": "Xix Le Projet Accompli",
+    "path": "tarot_boulot/boulot/majeurs/xix_le_projet_accompli.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xix_le_projet_accompli.json"
+  },
+  {
+    "id": "xi_le_pole_rayonnement",
+    "nom": "Xi Le Pole Rayonnement",
+    "path": "tarot_boulot/boulot/majeurs/xi_le_pole_rayonnement.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xi_le_pole_rayonnement.json"
+  },
+  {
+    "id": "xviii_le_bilan_imprevu",
+    "nom": "Xviii Le Bilan Imprevu",
+    "path": "tarot_boulot/boulot/majeurs/xviii_le_bilan_imprevu.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xviii_le_bilan_imprevu.json"
+  },
+  {
+    "id": "xvii_la_porteuse_despoir",
+    "nom": "Xvii La Porteuse Despoir",
+    "path": "tarot_boulot/boulot/majeurs/xvii_la_porteuse_despoir.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xvii_la_porteuse_despoir.json"
+  },
+  {
+    "id": "xvi_la_tour_de_controle",
+    "nom": "Xvi La Tour De Controle",
+    "path": "tarot_boulot/boulot/majeurs/xvi_la_tour_de_controle.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xvi_la_tour_de_controle.json"
+  },
+  {
+    "id": "xv_le_bureau_des_illusions",
+    "nom": "Xv Le Bureau Des Illusions",
+    "path": "tarot_boulot/boulot/majeurs/xv_le_bureau_des_illusions.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xv_le_bureau_des_illusions.json"
+  },
+  {
+    "id": "xxi_le_responsable_financier",
+    "nom": "Xxi Le Responsable Financier",
+    "path": "tarot_boulot/boulot/majeurs/xxi_le_responsable_financier.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xxi_le_responsable_financier.json"
+  },
+  {
+    "id": "xx_le_facteur_aleatoire",
+    "nom": "Xx Le Facteur Aleatoire",
+    "path": "tarot_boulot/boulot/majeurs/xx_le_facteur_aleatoire.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/xx_le_facteur_aleatoire.json"
+  },
+  {
+    "id": "x_la_reunion_cyclique",
+    "nom": "X La Reunion Cyclique",
+    "path": "tarot_boulot/boulot/majeurs/x_la_reunion_cyclique.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/majeurs/x_la_reunion_cyclique.json"
+  },
+  {
+    "id": "10_dix_de_batons",
+    "nom": "10 Dix De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/10_dix_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/10_dix_de_batons.json"
+  },
+  {
+    "id": "11_valet_de_batons",
+    "nom": "11 Valet De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/11_valet_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/11_valet_de_batons.json"
+  },
+  {
+    "id": "12_cavaliere_de_batons",
+    "nom": "12 Cavaliere De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/12_cavaliere_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/12_cavaliere_de_batons.json"
+  },
+  {
+    "id": "13_reine_de_batons",
+    "nom": "13 Reine De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/13_reine_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/13_reine_de_batons.json"
+  },
+  {
+    "id": "14_roi_de_batons",
+    "nom": "14 Roi De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/14_roi_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/14_roi_de_batons.json"
+  },
+  {
+    "id": "1_as_de_batons",
+    "nom": "1 As De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/1_as_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/1_as_de_batons.json"
+  },
+  {
+    "id": "2_deux_de_batons",
+    "nom": "2 Deux De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/2_deux_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/2_deux_de_batons.json"
+  },
+  {
+    "id": "3_trois_de_batons",
+    "nom": "3 Trois De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/3_trois_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/3_trois_de_batons.json"
+  },
+  {
+    "id": "4_quatre_de_batons",
+    "nom": "4 Quatre De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/4_quatre_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/4_quatre_de_batons.json"
+  },
+  {
+    "id": "5_cinq_de_batons",
+    "nom": "5 Cinq De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/5_cinq_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/5_cinq_de_batons.json"
+  },
+  {
+    "id": "6_six_de_batons",
+    "nom": "6 Six De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/6_six_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/6_six_de_batons.json"
+  },
+  {
+    "id": "7_sept_de_batons",
+    "nom": "7 Sept De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/7_sept_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/7_sept_de_batons.json"
+  },
+  {
+    "id": "8_huit_de_batons",
+    "nom": "8 Huit De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/8_huit_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/8_huit_de_batons.json"
+  },
+  {
+    "id": "9_neuf_de_batons",
+    "nom": "9 Neuf De Batons",
+    "path": "tarot_boulot/boulot/mineurs/batons/9_neuf_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/batons/9_neuf_de_batons.json"
+  },
+  {
+    "id": "10_dix_de_coupes",
+    "nom": "10 Dix De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/10_dix_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/10_dix_de_coupes.json"
+  },
+  {
+    "id": "11_valet_de_coupes",
+    "nom": "11 Valet De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/11_valet_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/11_valet_de_coupes.json"
+  },
+  {
+    "id": "12_cavaliere_de_coupes",
+    "nom": "12 Cavaliere De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/12_cavaliere_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/12_cavaliere_de_coupes.json"
+  },
+  {
+    "id": "13_reine_de_coupes",
+    "nom": "13 Reine De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/13_reine_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/13_reine_de_coupes.json"
+  },
+  {
+    "id": "14_roi_de_coupes",
+    "nom": "14 Roi De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/14_roi_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/14_roi_de_coupes.json"
+  },
+  {
+    "id": "1_as_de_coupes",
+    "nom": "1 As De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/1_as_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/1_as_de_coupes.json"
+  },
+  {
+    "id": "2_deux_de_coupes",
+    "nom": "2 Deux De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/2_deux_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/2_deux_de_coupes.json"
+  },
+  {
+    "id": "3_trois_de_coupes",
+    "nom": "3 Trois De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/3_trois_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/3_trois_de_coupes.json"
+  },
+  {
+    "id": "4_quatre_de_coupes",
+    "nom": "4 Quatre De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/4_quatre_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/4_quatre_de_coupes.json"
+  },
+  {
+    "id": "5_cinq_de_coupes",
+    "nom": "5 Cinq De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/5_cinq_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/5_cinq_de_coupes.json"
+  },
+  {
+    "id": "6_six_de_coupes",
+    "nom": "6 Six De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/6_six_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/6_six_de_coupes.json"
+  },
+  {
+    "id": "7_sept_de_coupes",
+    "nom": "7 Sept De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/7_sept_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/7_sept_de_coupes.json"
+  },
+  {
+    "id": "8_huit_de_coupes",
+    "nom": "8 Huit De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/8_huit_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/8_huit_de_coupes.json"
+  },
+  {
+    "id": "9_neuf_de_coupes",
+    "nom": "9 Neuf De Coupes",
+    "path": "tarot_boulot/boulot/mineurs/coupes/9_neuf_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/coupes/9_neuf_de_coupes.json"
+  },
+  {
+    "id": "10_dix_de_deniers",
+    "nom": "10 Dix De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/10_dix_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/10_dix_de_deniers.json"
+  },
+  {
+    "id": "11_valet_de_deniers",
+    "nom": "11 Valet De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/11_valet_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/11_valet_de_deniers.json"
+  },
+  {
+    "id": "12_cavaliere_de_deniers",
+    "nom": "12 Cavaliere De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/12_cavaliere_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/12_cavaliere_de_deniers.json"
+  },
+  {
+    "id": "13_reine_de_deniers",
+    "nom": "13 Reine De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/13_reine_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/13_reine_de_deniers.json"
+  },
+  {
+    "id": "14_roi_de_deniers",
+    "nom": "14 Roi De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/14_roi_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/14_roi_de_deniers.json"
+  },
+  {
+    "id": "1_as_de_deniers",
+    "nom": "1 As De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/1_as_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/1_as_de_deniers.json"
+  },
+  {
+    "id": "2_deux_de_deniers",
+    "nom": "2 Deux De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/2_deux_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/2_deux_de_deniers.json"
+  },
+  {
+    "id": "3_trois_de_deniers",
+    "nom": "3 Trois De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/3_trois_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/3_trois_de_deniers.json"
+  },
+  {
+    "id": "4_quatre_de_deniers",
+    "nom": "4 Quatre De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/4_quatre_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/4_quatre_de_deniers.json"
+  },
+  {
+    "id": "5_cinq_de_deniers",
+    "nom": "5 Cinq De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/5_cinq_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/5_cinq_de_deniers.json"
+  },
+  {
+    "id": "6_six_de_deniers",
+    "nom": "6 Six De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/6_six_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/6_six_de_deniers.json"
+  },
+  {
+    "id": "7_sept_de_deniers",
+    "nom": "7 Sept De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/7_sept_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/7_sept_de_deniers.json"
+  },
+  {
+    "id": "8_huit_de_deniers",
+    "nom": "8 Huit De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/8_huit_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/8_huit_de_deniers.json"
+  },
+  {
+    "id": "9_neuf_de_deniers",
+    "nom": "9 Neuf De Deniers",
+    "path": "tarot_boulot/boulot/mineurs/deniers/9_neuf_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/deniers/9_neuf_de_deniers.json"
+  },
+  {
+    "id": "10_dix_depees",
+    "nom": "10 Dix Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/10_dix_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/10_dix_depees.json"
+  },
+  {
+    "id": "11_valet_depees",
+    "nom": "11 Valet Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/11_valet_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/11_valet_depees.json"
+  },
+  {
+    "id": "12_cavaliere_depees",
+    "nom": "12 Cavaliere Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/12_cavaliere_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/12_cavaliere_depees.json"
+  },
+  {
+    "id": "13_reine_depees",
+    "nom": "13 Reine Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/13_reine_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/13_reine_depees.json"
+  },
+  {
+    "id": "14_roi_depees",
+    "nom": "14 Roi Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/14_roi_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/14_roi_depees.json"
+  },
+  {
+    "id": "1_as_depees",
+    "nom": "1 As Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/1_as_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/1_as_depees.json"
+  },
+  {
+    "id": "2_deux_depees",
+    "nom": "2 Deux Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/2_deux_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/2_deux_depees.json"
+  },
+  {
+    "id": "3_trois_depees",
+    "nom": "3 Trois Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/3_trois_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/3_trois_depees.json"
+  },
+  {
+    "id": "4_quatre_depees",
+    "nom": "4 Quatre Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/4_quatre_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/4_quatre_depees.json"
+  },
+  {
+    "id": "5_cinq_depees",
+    "nom": "5 Cinq Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/5_cinq_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/5_cinq_depees.json"
+  },
+  {
+    "id": "6_six_depees",
+    "nom": "6 Six Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/6_six_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/6_six_depees.json"
+  },
+  {
+    "id": "7_sept_depees",
+    "nom": "7 Sept Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/7_sept_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/7_sept_depees.json"
+  },
+  {
+    "id": "8_huit_depees",
+    "nom": "8 Huit Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/8_huit_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/8_huit_depees.json"
+  },
+  {
+    "id": "9_neuf_depees",
+    "nom": "9 Neuf Depees",
+    "path": "tarot_boulot/boulot/mineurs/epees/9_neuf_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_boulot/boulot/mineurs/epees/9_neuf_depees.json"
+  }
+]

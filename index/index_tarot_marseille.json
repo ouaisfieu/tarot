@@ -1,0 +1,470 @@
+[
+  {
+    "id": "0_le_mat",
+    "nom": "0 Le Mat",
+    "path": "tarot_marseille/marseille/majeurs/0_le_mat.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/0_le_mat.json"
+  },
+  {
+    "id": "iii_limperatrice",
+    "nom": "Iii Limperatrice",
+    "path": "tarot_marseille/marseille/majeurs/iii_limperatrice.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/iii_limperatrice.json"
+  },
+  {
+    "id": "ii_la_papesse",
+    "nom": "Ii La Papesse",
+    "path": "tarot_marseille/marseille/majeurs/ii_la_papesse.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/ii_la_papesse.json"
+  },
+  {
+    "id": "iv_lempereur",
+    "nom": "Iv Lempereur",
+    "path": "tarot_marseille/marseille/majeurs/iv_lempereur.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/iv_lempereur.json"
+  },
+  {
+    "id": "ix_lhermite",
+    "nom": "Ix Lhermite",
+    "path": "tarot_marseille/marseille/majeurs/ix_lhermite.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/ix_lhermite.json"
+  },
+  {
+    "id": "i_le_bateleur",
+    "nom": "I Le Bateleur",
+    "path": "tarot_marseille/marseille/majeurs/i_le_bateleur.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/i_le_bateleur.json"
+  },
+  {
+    "id": "viii_la_justice",
+    "nom": "Viii La Justice",
+    "path": "tarot_marseille/marseille/majeurs/viii_la_justice.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/viii_la_justice.json"
+  },
+  {
+    "id": "vii_le_chariot",
+    "nom": "Vii Le Chariot",
+    "path": "tarot_marseille/marseille/majeurs/vii_le_chariot.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/vii_le_chariot.json"
+  },
+  {
+    "id": "vi_lamoureux",
+    "nom": "Vi Lamoureux",
+    "path": "tarot_marseille/marseille/majeurs/vi_lamoureux.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/vi_lamoureux.json"
+  },
+  {
+    "id": "v_le_pape",
+    "nom": "V Le Pape",
+    "path": "tarot_marseille/marseille/majeurs/v_le_pape.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/v_le_pape.json"
+  },
+  {
+    "id": "xiii_larcane_sans_nom",
+    "nom": "Xiii Larcane Sans Nom",
+    "path": "tarot_marseille/marseille/majeurs/xiii_larcane_sans_nom.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xiii_larcane_sans_nom.json"
+  },
+  {
+    "id": "xii_le_pendu",
+    "nom": "Xii Le Pendu",
+    "path": "tarot_marseille/marseille/majeurs/xii_le_pendu.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xii_le_pendu.json"
+  },
+  {
+    "id": "xiv_temperance",
+    "nom": "Xiv Temperance",
+    "path": "tarot_marseille/marseille/majeurs/xiv_temperance.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xiv_temperance.json"
+  },
+  {
+    "id": "xix_le_soleil",
+    "nom": "Xix Le Soleil",
+    "path": "tarot_marseille/marseille/majeurs/xix_le_soleil.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xix_le_soleil.json"
+  },
+  {
+    "id": "xi_la_force",
+    "nom": "Xi La Force",
+    "path": "tarot_marseille/marseille/majeurs/xi_la_force.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xi_la_force.json"
+  },
+  {
+    "id": "xviii_la_lune",
+    "nom": "Xviii La Lune",
+    "path": "tarot_marseille/marseille/majeurs/xviii_la_lune.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xviii_la_lune.json"
+  },
+  {
+    "id": "xvii_letoile",
+    "nom": "Xvii Letoile",
+    "path": "tarot_marseille/marseille/majeurs/xvii_letoile.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xvii_letoile.json"
+  },
+  {
+    "id": "xvi_la_maison_dieu",
+    "nom": "Xvi La Maison Dieu",
+    "path": "tarot_marseille/marseille/majeurs/xvi_la_maison_dieu.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xvi_la_maison_dieu.json"
+  },
+  {
+    "id": "xv_le_diable",
+    "nom": "Xv Le Diable",
+    "path": "tarot_marseille/marseille/majeurs/xv_le_diable.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xv_le_diable.json"
+  },
+  {
+    "id": "xxi_le_monde",
+    "nom": "Xxi Le Monde",
+    "path": "tarot_marseille/marseille/majeurs/xxi_le_monde.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xxi_le_monde.json"
+  },
+  {
+    "id": "xx_le_jugement",
+    "nom": "Xx Le Jugement",
+    "path": "tarot_marseille/marseille/majeurs/xx_le_jugement.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/xx_le_jugement.json"
+  },
+  {
+    "id": "x_la_roue_de_fortune",
+    "nom": "X La Roue De Fortune",
+    "path": "tarot_marseille/marseille/majeurs/x_la_roue_de_fortune.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/majeurs/x_la_roue_de_fortune.json"
+  },
+  {
+    "id": "10_dix_de_batons",
+    "nom": "10 Dix De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/10_dix_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/10_dix_de_batons.json"
+  },
+  {
+    "id": "11_valet_de_batons",
+    "nom": "11 Valet De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/11_valet_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/11_valet_de_batons.json"
+  },
+  {
+    "id": "12_cavalier_de_batons",
+    "nom": "12 Cavalier De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/12_cavalier_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/12_cavalier_de_batons.json"
+  },
+  {
+    "id": "13_reine_de_batons",
+    "nom": "13 Reine De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/13_reine_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/13_reine_de_batons.json"
+  },
+  {
+    "id": "14_roi_de_batons",
+    "nom": "14 Roi De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/14_roi_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/14_roi_de_batons.json"
+  },
+  {
+    "id": "1_as_de_batons",
+    "nom": "1 As De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/1_as_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/1_as_de_batons.json"
+  },
+  {
+    "id": "2_deux_de_batons",
+    "nom": "2 Deux De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/2_deux_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/2_deux_de_batons.json"
+  },
+  {
+    "id": "3_trois_de_batons",
+    "nom": "3 Trois De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/3_trois_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/3_trois_de_batons.json"
+  },
+  {
+    "id": "4_quatre_de_batons",
+    "nom": "4 Quatre De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/4_quatre_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/4_quatre_de_batons.json"
+  },
+  {
+    "id": "5_cinq_de_batons",
+    "nom": "5 Cinq De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/5_cinq_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/5_cinq_de_batons.json"
+  },
+  {
+    "id": "6_six_de_batons",
+    "nom": "6 Six De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/6_six_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/6_six_de_batons.json"
+  },
+  {
+    "id": "7_sept_de_batons",
+    "nom": "7 Sept De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/7_sept_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/7_sept_de_batons.json"
+  },
+  {
+    "id": "8_huit_de_batons",
+    "nom": "8 Huit De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/8_huit_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/8_huit_de_batons.json"
+  },
+  {
+    "id": "9_neuf_de_batons",
+    "nom": "9 Neuf De Batons",
+    "path": "tarot_marseille/marseille/mineurs/batons/9_neuf_de_batons.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/batons/9_neuf_de_batons.json"
+  },
+  {
+    "id": "10_dix_de_coupes",
+    "nom": "10 Dix De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/10_dix_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/10_dix_de_coupes.json"
+  },
+  {
+    "id": "11_valet_de_coupes",
+    "nom": "11 Valet De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/11_valet_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/11_valet_de_coupes.json"
+  },
+  {
+    "id": "12_cavalier_de_coupes",
+    "nom": "12 Cavalier De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/12_cavalier_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/12_cavalier_de_coupes.json"
+  },
+  {
+    "id": "13_reine_de_coupes",
+    "nom": "13 Reine De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/13_reine_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/13_reine_de_coupes.json"
+  },
+  {
+    "id": "14_roi_de_coupes",
+    "nom": "14 Roi De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/14_roi_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/14_roi_de_coupes.json"
+  },
+  {
+    "id": "1_as_de_coupes",
+    "nom": "1 As De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/1_as_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/1_as_de_coupes.json"
+  },
+  {
+    "id": "2_deux_de_coupes",
+    "nom": "2 Deux De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/2_deux_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/2_deux_de_coupes.json"
+  },
+  {
+    "id": "3_trois_de_coupes",
+    "nom": "3 Trois De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/3_trois_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/3_trois_de_coupes.json"
+  },
+  {
+    "id": "4_quatre_de_coupes",
+    "nom": "4 Quatre De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/4_quatre_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/4_quatre_de_coupes.json"
+  },
+  {
+    "id": "5_cinq_de_coupes",
+    "nom": "5 Cinq De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/5_cinq_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/5_cinq_de_coupes.json"
+  },
+  {
+    "id": "6_six_de_coupes",
+    "nom": "6 Six De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/6_six_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/6_six_de_coupes.json"
+  },
+  {
+    "id": "7_sept_de_coupes",
+    "nom": "7 Sept De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/7_sept_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/7_sept_de_coupes.json"
+  },
+  {
+    "id": "8_huit_de_coupes",
+    "nom": "8 Huit De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/8_huit_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/8_huit_de_coupes.json"
+  },
+  {
+    "id": "9_neuf_de_coupes",
+    "nom": "9 Neuf De Coupes",
+    "path": "tarot_marseille/marseille/mineurs/coupes/9_neuf_de_coupes.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/coupes/9_neuf_de_coupes.json"
+  },
+  {
+    "id": "10_dix_de_deniers",
+    "nom": "10 Dix De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/10_dix_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/10_dix_de_deniers.json"
+  },
+  {
+    "id": "11_valet_de_deniers",
+    "nom": "11 Valet De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/11_valet_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/11_valet_de_deniers.json"
+  },
+  {
+    "id": "12_cavalier_de_deniers",
+    "nom": "12 Cavalier De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/12_cavalier_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/12_cavalier_de_deniers.json"
+  },
+  {
+    "id": "13_reine_de_deniers",
+    "nom": "13 Reine De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/13_reine_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/13_reine_de_deniers.json"
+  },
+  {
+    "id": "14_roi_de_deniers",
+    "nom": "14 Roi De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/14_roi_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/14_roi_de_deniers.json"
+  },
+  {
+    "id": "1_as_de_deniers",
+    "nom": "1 As De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/1_as_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/1_as_de_deniers.json"
+  },
+  {
+    "id": "2_deux_de_deniers",
+    "nom": "2 Deux De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/2_deux_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/2_deux_de_deniers.json"
+  },
+  {
+    "id": "3_trois_de_deniers",
+    "nom": "3 Trois De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/3_trois_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/3_trois_de_deniers.json"
+  },
+  {
+    "id": "4_quatre_de_deniers",
+    "nom": "4 Quatre De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/4_quatre_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/4_quatre_de_deniers.json"
+  },
+  {
+    "id": "5_cinq_de_deniers",
+    "nom": "5 Cinq De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/5_cinq_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/5_cinq_de_deniers.json"
+  },
+  {
+    "id": "6_six_de_deniers",
+    "nom": "6 Six De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/6_six_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/6_six_de_deniers.json"
+  },
+  {
+    "id": "7_sept_de_deniers",
+    "nom": "7 Sept De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/7_sept_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/7_sept_de_deniers.json"
+  },
+  {
+    "id": "8_huit_de_deniers",
+    "nom": "8 Huit De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/8_huit_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/8_huit_de_deniers.json"
+  },
+  {
+    "id": "9_neuf_de_deniers",
+    "nom": "9 Neuf De Deniers",
+    "path": "tarot_marseille/marseille/mineurs/deniers/9_neuf_de_deniers.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/deniers/9_neuf_de_deniers.json"
+  },
+  {
+    "id": "10_dix_depees",
+    "nom": "10 Dix Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/10_dix_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/10_dix_depees.json"
+  },
+  {
+    "id": "11_valet_depees",
+    "nom": "11 Valet Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/11_valet_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/11_valet_depees.json"
+  },
+  {
+    "id": "12_cavalier_depees",
+    "nom": "12 Cavalier Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/12_cavalier_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/12_cavalier_depees.json"
+  },
+  {
+    "id": "13_reine_depees",
+    "nom": "13 Reine Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/13_reine_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/13_reine_depees.json"
+  },
+  {
+    "id": "14_roi_depees",
+    "nom": "14 Roi Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/14_roi_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/14_roi_depees.json"
+  },
+  {
+    "id": "1_as_depees",
+    "nom": "1 As Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/1_as_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/1_as_depees.json"
+  },
+  {
+    "id": "2_deux_depees",
+    "nom": "2 Deux Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/2_deux_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/2_deux_depees.json"
+  },
+  {
+    "id": "3_trois_depees",
+    "nom": "3 Trois Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/3_trois_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/3_trois_depees.json"
+  },
+  {
+    "id": "4_quatre_depees",
+    "nom": "4 Quatre Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/4_quatre_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/4_quatre_depees.json"
+  },
+  {
+    "id": "5_cinq_depees",
+    "nom": "5 Cinq Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/5_cinq_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/5_cinq_depees.json"
+  },
+  {
+    "id": "6_six_depees",
+    "nom": "6 Six Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/6_six_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/6_six_depees.json"
+  },
+  {
+    "id": "7_sept_depees",
+    "nom": "7 Sept Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/7_sept_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/7_sept_depees.json"
+  },
+  {
+    "id": "8_huit_depees",
+    "nom": "8 Huit Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/8_huit_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/8_huit_depees.json"
+  },
+  {
+    "id": "9_neuf_depees",
+    "nom": "9 Neuf Depees",
+    "path": "tarot_marseille/marseille/mineurs/epees/9_neuf_depees.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/tarot_marseille/marseille/mineurs/epees/9_neuf_depees.json"
+  }
+]

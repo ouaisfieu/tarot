@@ -1,0 +1,62 @@
+[
+  {
+    "nom": "Rat",
+    "file": "rat.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/rat.json"
+  },
+  {
+    "nom": "Bœuf",
+    "file": "buffle.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/buffle.json"
+  },
+  {
+    "nom": "Tigre",
+    "file": "tigre.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/tigre.json"
+  },
+  {
+    "nom": "Lièvre",
+    "file": "lievre.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/lievre.json"
+  },
+  {
+    "nom": "Dragon",
+    "file": "dragon.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/dragon.json"
+  },
+  {
+    "nom": "Serpent",
+    "file": "serpent.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/serpent.json"
+  },
+  {
+    "nom": "Cheval",
+    "file": "cheval.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/cheval.json"
+  },
+  {
+    "nom": "Chèvre",
+    "file": "chevre.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/chevre.json"
+  },
+  {
+    "nom": "Singe",
+    "file": "singe.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/singe.json"
+  },
+  {
+    "nom": "Coq",
+    "file": "coq.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/coq.json"
+  },
+  {
+    "nom": "Chien",
+    "file": "chien.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/chien.json"
+  },
+  {
+    "nom": "Cochon",
+    "file": "cochon.json",
+    "url": "https://raw.githubusercontent.com/ouaisfieu/tarot/main/astrologie/signes_chinois/cochon.json"
+  }
+]
