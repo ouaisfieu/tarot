@@ -1,0 +1,317 @@
+[
+  {
+    "Terme":"importance",
+    "Formulation":"C'est important pour moi",
+    "Polarité":"+",
+    "Type de rapport":"affectif \/ réflexion",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"⭐️",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"nécessité",
+    "Formulation":"C'est nécessaire pour moi",
+    "Polarité":"+",
+    "Type de rapport":"pragmatique",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"🛠️",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"besoin",
+    "Formulation":"J'en ai besoin",
+    "Polarité":"+",
+    "Type de rapport":"vital \/ émotionnel",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"💧",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"manque",
+    "Formulation":"Cela me manque",
+    "Polarité":"+",
+    "Type de rapport":"émotionnel",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"💔",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"recherche",
+    "Formulation":"Je recherche cela",
+    "Polarité":"+",
+    "Type de rapport":"orientation \/ action",
+    "Catégorie principale":"Orientation \/ recherche",
+    "Icône":"🔍",
+    "Code couleur":"#f9a825"
+  },
+  {
+    "Terme":"valorisation",
+    "Formulation":"Je valorise cela",
+    "Polarité":"+",
+    "Type de rapport":"éthique \/ jugement",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"🏆",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"appréciation",
+    "Formulation":"J'apprécie cela",
+    "Polarité":"+",
+    "Type de rapport":"émotionnel",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"😊",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"attrait",
+    "Formulation":"Cela m'attire",
+    "Polarité":"+",
+    "Type de rapport":"affectif",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"🧲",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"désir",
+    "Formulation":"J’éprouve du désir pour cela",
+    "Polarité":"+",
+    "Type de rapport":"affectif",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"❤️‍🔥",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"passion",
+    "Formulation":"Cela me passionne",
+    "Polarité":"++",
+    "Type de rapport":"émotionnel intense",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"🔥",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"préférence",
+    "Formulation":"J’ai une préférence pour cela",
+    "Polarité":"+",
+    "Type de rapport":"affectif \/ jugement",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"🧭",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"identification",
+    "Formulation":"Je m’identifie à cela",
+    "Polarité":"+",
+    "Type de rapport":"identitaire",
+    "Catégorie principale":"Nature \/ identification",
+    "Icône":"🪞",
+    "Code couleur":"#a2cba6"
+  },
+  {
+    "Terme":"nature",
+    "Formulation":"C’est dans ma nature",
+    "Polarité":"+",
+    "Type de rapport":"identitaire",
+    "Catégorie principale":"Nature \/ identification",
+    "Icône":"🌿",
+    "Code couleur":"#a2cba6"
+  },
+  {
+    "Terme":"tendance",
+    "Formulation":"Je tends vers cela",
+    "Polarité":"+",
+    "Type de rapport":"dynamique \/ orientation",
+    "Catégorie principale":"Orientation \/ recherche",
+    "Icône":"🧭",
+    "Code couleur":"#f9a825"
+  },
+  {
+    "Terme":"en phase",
+    "Formulation":"Je suis en accord avec cela",
+    "Polarité":"+",
+    "Type de rapport":"harmonie",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"🧘‍♂️",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"sensibilité",
+    "Formulation":"Cela me touche",
+    "Polarité":"+",
+    "Type de rapport":"émotionnel \/ réceptif",
+    "Catégorie principale":"Affinité positive",
+    "Icône":"💓",
+    "Code couleur":"#70d28b"
+  },
+  {
+    "Terme":"tolérance",
+    "Formulation":"Je peux tolérer cela",
+    "Polarité":"neutre\/+",
+    "Type de rapport":"acceptation",
+    "Catégorie principale":"Posture neutre",
+    "Icône":"🤝",
+    "Code couleur":"#d3d3d3"
+  },
+  {
+    "Terme":"indifférence",
+    "Formulation":"Cela ne me touche pas",
+    "Polarité":"neutre",
+    "Type de rapport":"détachement",
+    "Catégorie principale":"Posture neutre",
+    "Icône":"😐",
+    "Code couleur":"#d3d3d3"
+  },
+  {
+    "Terme":"ignorance",
+    "Formulation":"Je ne connais pas cela",
+    "Polarité":"neutre",
+    "Type de rapport":"inconnu \/ distance",
+    "Catégorie principale":"Posture neutre",
+    "Icône":"❓",
+    "Code couleur":"#d3d3d3"
+  },
+  {
+    "Terme":"absence",
+    "Formulation":"Cela m’est inconnu",
+    "Polarité":"neutre",
+    "Type de rapport":"inconnu \/ neutre",
+    "Catégorie principale":"Posture neutre",
+    "Icône":"🕳️",
+    "Code couleur":"#d3d3d3"
+  },
+  {
+    "Terme":"aptitude",
+    "Formulation":"Je suis apte à cela",
+    "Polarité":"neutre",
+    "Type de rapport":"compétence",
+    "Catégorie principale":"Compétence \/ capacité",
+    "Icône":"🪜",
+    "Code couleur":"#a5c9f4"
+  },
+  {
+    "Terme":"capacité",
+    "Formulation":"Je suis capable de cela",
+    "Polarité":"neutre",
+    "Type de rapport":"compétence",
+    "Catégorie principale":"Compétence \/ capacité",
+    "Icône":"🧰",
+    "Code couleur":"#a5c9f4"
+  },
+  {
+    "Terme":"facilité",
+    "Formulation":"Cela m’est facile",
+    "Polarité":"neutre",
+    "Type de rapport":"pratique \/ fluide",
+    "Catégorie principale":"Compétence \/ capacité",
+    "Icône":"🪶",
+    "Code couleur":"#a5c9f4"
+  },
+  {
+    "Terme":"méfiance",
+    "Formulation":"Je me méfie de cela",
+    "Polarité":"-",
+    "Type de rapport":"émotionnel défensif",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"🛑",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"problème",
+    "Formulation":"Cela me pose problème",
+    "Polarité":"-",
+    "Type de rapport":"obstacle",
+    "Catégorie principale":"Problèmes \/ obstacles",
+    "Icône":"⚠️",
+    "Code couleur":"#ffcc00"
+  },
+  {
+    "Terme":"difficulté",
+    "Formulation":"J’ai des difficultés avec cela",
+    "Polarité":"-",
+    "Type de rapport":"obstacle \/ effort",
+    "Catégorie principale":"Problèmes \/ obstacles",
+    "Icône":"🧱",
+    "Code couleur":"#ffcc00"
+  },
+  {
+    "Terme":"inquiétude",
+    "Formulation":"Cela m’inquiète",
+    "Polarité":"-",
+    "Type de rapport":"émotionnel \/ anxiété",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"😟",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"crainte",
+    "Formulation":"Je crains cela",
+    "Polarité":"-",
+    "Type de rapport":"émotionnel \/ anticipé",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"😰",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"peur",
+    "Formulation":"Cela me fait peur",
+    "Polarité":"-",
+    "Type de rapport":"émotionnel fort",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"😱",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"fuite",
+    "Formulation":"Je fuis cela",
+    "Polarité":"-",
+    "Type de rapport":"réaction \/ retrait",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"🏃‍♂️💨",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"rejet",
+    "Formulation":"Je rejette cela",
+    "Polarité":"-",
+    "Type de rapport":"refus actif",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"🚫",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"refus",
+    "Formulation":"Je refuse cela",
+    "Polarité":"-",
+    "Type de rapport":"position \/ choix",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"✋",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"opposition",
+    "Formulation":"Je suis opposé à cela",
+    "Polarité":"-",
+    "Type de rapport":"position \/ antagonisme",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"⚔️",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"aversion",
+    "Formulation":"J’ai de l’aversion pour cela",
+    "Polarité":"-",
+    "Type de rapport":"émotionnel répulsif",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"🤢",
+    "Code couleur":"#f28c8c"
+  },
+  {
+    "Terme":"combat",
+    "Formulation":"Je combats cela",
+    "Polarité":"--",
+    "Type de rapport":"action \/ résistance",
+    "Catégorie principale":"Rejet ou opposition",
+    "Icône":"🥊",
+    "Code couleur":"#f28c8c"
+  }
+]
